@@ -22,7 +22,7 @@
         "php": ">=7.0",
         "doctrine/dbal": "^2.6",
         "laravel/framework": "~5|~6|~7|~8|~9|~10|~11",
-        "pragmarx/support": "~1.0.0",
+        "pragmarx/support": "1.0.0",
         "ramsey/uuid": "^3 || ^4",
         "jenssegers/agent": "~2.1",
         "ua-parser/uap-php" : "~3.4",
